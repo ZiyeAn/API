@@ -1,0 +1,144 @@
+{
+  "seaAnimals": [
+    {
+      "name": "Clownfish",
+      "location": "Coral Reefs, Indo-Pacific",
+      "color": "Orange with white stripes",
+      "size": "10-13 cm",
+      "shortDescription": "A small, vibrant fish known for living in sea anemones."
+    },
+    {
+      "name": "Blue Tang",
+      "location": "Coral Reefs, Western Indian Ocean",
+      "color": "Bright blue with yellow fins",
+      "size": "15-25 cm",
+      "shortDescription": "A striking blue fish with yellow fins, popular in aquariums."
+    },
+    {
+      "name": "Great White Shark",
+      "location": "Coastal waters, worldwide",
+      "color": "Gray and white",
+      "size": "450-610 cm",
+      "shortDescription": "One of the largest predatory fish, known for its powerful bite."
+    },
+    {
+      "name": "Manta Ray",
+      "location": "Tropical and subtropical waters, worldwide",
+      "color": "Dark gray or black on top, white underneath",
+      "size": "396-701 cm wingspan",
+      "shortDescription": "Graceful sea creature with large wing-like fins."
+    },
+    {
+      "name": "Anglerfish",
+      "location": "Deep sea, Atlantic and Antarctic oceans",
+      "color": "Dark brown or gray",
+      "size": "20-102 cm",
+      "shortDescription": "Deep-sea predator known for its glowing lure."
+    },
+    {
+      "name": "Lionfish",
+      "location": "Indian and Pacific Oceans",
+      "color": "Red, white, and brown bands",
+      "size": "28-38 cm",
+      "shortDescription": "Beautiful yet venomous fish with long, spiny fins."
+    },
+    {
+      "name": "Parrotfish",
+      "location": "Coral reefs, tropical waters",
+      "color": "Bright green, blue, pink",
+      "size": "30-51 cm",
+      "shortDescription": "Vividly colored fish known for its beak-like teeth."
+    },
+    {
+      "name": "Yellowfin Tuna",
+      "location": "Open waters, Atlantic and Pacific Oceans",
+      "color": "Metallic blue and yellow",
+      "size": "91-213 cm",
+      "shortDescription": "A fast and powerful fish often found in tropical oceans."
+    },
+    {
+      "name": "Moray Eel",
+      "location": "Coral reefs, tropical and temperate seas",
+      "color": "Greenish-brown",
+      "size": "152-396 cm",
+      "shortDescription": "Slender, long fish often found hiding in crevices of reefs."
+    },
+    {
+      "name": "Pufferfish",
+      "location": "Warm coastal waters, worldwide",
+      "color": "Yellowish-brown with spots",
+      "size": "20-30 cm",
+      "shortDescription": "A fish that inflates to a ball shape when threatened."
+    },
+    {
+      "name": "Seahorse",
+      "location": "Shallow coastal waters, worldwide",
+      "color": "Yellow, orange, brown",
+      "size": "2.5-15 cm",
+      "shortDescription": "Tiny, unique fish that swims upright and has a curled tail."
+    },
+    {
+      "name": "Octopus",
+      "location": "Coral reefs, deep sea, worldwide",
+      "color": "Red, brown, and purple",
+      "size": "30-488 cm",
+      "shortDescription": "Intelligent, eight-armed sea creature with the ability to camouflage."
+    },
+    {
+      "name": "Humpback Whale",
+      "location": "Open ocean, worldwide",
+      "color": "Black and white",
+      "size": "1219-1524 cm",
+      "shortDescription": "Large, acrobatic whale known for its long migrations."
+    },
+    {
+      "name": "Starfish",
+      "location": "Tidal pools, worldwide",
+      "color": "Red, orange, yellow, purple",
+      "size": "12-25 cm",
+      "shortDescription": "Marine invertebrate with a star-shaped body."
+    },
+    {
+      "name": "Jellyfish",
+      "location": "Coastal and open waters, worldwide",
+      "color": "Transparent, blue, pink",
+      "size": "1-244 cm",
+      "shortDescription": "Gelatinous creature with long, stinging tentacles."
+    },
+    {
+      "name": "Sea Turtle",
+      "location": "Tropical and subtropical seas",
+      "color": "Brown, green, olive",
+      "size": "61-152 cm",
+      "shortDescription": "Marine reptile known for its long lifespan and swimming grace."
+    },
+    {
+      "name": "Dolphin",
+      "location": "Coastal waters, worldwide",
+      "color": "Gray with lighter belly",
+      "size": "183-396 cm",
+      "shortDescription": "Highly intelligent marine mammal known for its playful behavior."
+    },
+    {
+      "name": "Barracuda",
+      "location": "Warm tropical seas, worldwide",
+      "color": "Gray with black spots",
+      "size": "61-183 cm",
+      "shortDescription": "Long, predatory fish known for its sharp teeth and speed."
+    },
+    {
+      "name": "Beluga Whale",
+      "location": "Cold Arctic waters",
+      "color": "White",
+      "size": "396-610 cm",
+      "shortDescription": "Small, white whale known for its vocal sounds and playful nature."
+    },
+    {
+      "name": "Orca",
+      "location": "Cold oceans, worldwide",
+      "color": "Black and white",
+      "size": "610-792 cm",
+      "shortDescription": "The largest member of the dolphin family, also known as the killer whale."
+    }
+  ]
+}
