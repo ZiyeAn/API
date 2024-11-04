@@ -3,6 +3,10 @@ import fs from 'fs/promises'
 
 const app = express()
 
+app.use(cors({
+    origin: '*'
+}));
+
 const port = process.env.PORT || 3001
 
 
@@ -24,12 +28,12 @@ app.get('/seaAnimals', (req, res) =>{
 })
 
 app.get('/name/:name', (req, res) => {
-    const reqName = req.params.name.substring(1); // Substring to match the format in your example
+    const reqName = req.params.name.substring(1); 
     const seaAnimals = jsonData.seaAnimals;
 
     seaAnimals.forEach((animal, index) => {
         if (animal.name === reqName) {
-            const foundAnimal = seaAnimals[index]; // Use the current index to retrieve the object
+            const foundAnimal = seaAnimals[index]; 
             res.send(foundAnimal);
         }
     });
